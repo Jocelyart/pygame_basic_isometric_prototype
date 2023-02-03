@@ -1,0 +1,1 @@
+https://gamedev.stackexchange.com/questions/27244/isometric-collision-detection
